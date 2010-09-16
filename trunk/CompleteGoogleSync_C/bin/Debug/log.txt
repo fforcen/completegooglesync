@@ -1,0 +1,681 @@
+16:46:56 13/07/2010 Iniciando sincronizacion
+16:47:01 13/07/2010 Sincronizacion finalizada
+13/07/2010 16:51:08 Iniciando sincronizacion
+13/07/2010 16:51:11 No se ha podido recuperar el registro de sincronizacion
+13/07/2010 16:52:31 Iniciando sincronizacion
+13/07/2010 16:52:54 Iniciando sincronizacion
+13/07/2010 16:53:03 Sincronizacion finalizada
+13/07/2010 17:04:10 Iniciando sincronizacion
+13/07/2010 17:04:15 Sincronizacion finalizada
+13/07/2010 17:05:15 Iniciando sincronizacion
+13/07/2010 17:05:19 Sincronizacion finalizada
+13/07/2010 17:05:48 Iniciando sincronizacion
+13/07/2010 17:05:52 Sincronizacion finalizada
+13/07/2010 17:07:17 Iniciando sincronizacion
+13/07/2010 17:07:21 Sincronizacion finalizada
+13/07/2010 17:08:21 Iniciando sincronizacion
+13/07/2010 17:08:24 Sincronizacion finalizada
+13/07/2010 17:09:15 Iniciando sincronizacion
+13/07/2010 17:09:19 Sincronizacion finalizada
+13/07/2010 17:10:05 Iniciando sincronizacion
+13/07/2010 17:10:13 Sincronizacion finalizada
+13/07/2010 17:11:09 Iniciando sincronizacion
+13/07/2010 17:11:14 Sincronizacion finalizada
+13/07/2010 17:13:16 Iniciando sincronizacion
+13/07/2010 17:13:21 Sincronizacion finalizada
+13/07/2010 17:14:21 Iniciando sincronizacion
+13/07/2010 17:14:24 Sincronizacion finalizada
+13/07/2010 17:15:51 Iniciando sincronizacion
+13/07/2010 17:15:56 Sincronizacion finalizada
+13/07/2010 17:17:11 Iniciando sincronizacion
+13/07/2010 17:17:15 Sincronizacion finalizada
+13/07/2010 17:17:18 Iniciando sincronizacion
+13/07/2010 17:17:22 Sincronizacion finalizada
+13/07/2010 17:17:35 Iniciando sincronizacion
+13/07/2010 17:17:38 Sincronizacion finalizada
+13/07/2010 17:18:05 Iniciando sincronizacion
+13/07/2010 17:18:09 Sincronizacion finalizada
+13/07/2010 17:18:23 Iniciando sincronizacion
+13/07/2010 17:18:27 Sincronizacion finalizada
+13/07/2010 17:18:38 Iniciando sincronizacion
+13/07/2010 17:18:41 Sincronizacion finalizada
+13/07/2010 17:18:57 Iniciando sincronizacion
+13/07/2010 17:19:01 Sincronizacion finalizada
+13/07/2010 17:19:11 Iniciando sincronizacion
+13/07/2010 17:19:22 Sincronizacion finalizada
+14/07/2010 9:26:08 Iniciando sincronizacion de contactos
+14/07/2010 9:26:52 Iniciando sincronizacion de calendario
+14/07/2010 9:26:52 Sincronizacion finalizada
+14/07/2010 9:26:56 Iniciando sincronizacion de contactos
+14/07/2010 9:38:37 Iniciando sincronizacion de contactos
+14/07/2010 9:44:41 Iniciando sincronizacion de contactos
+14/07/2010 13:37:06 Iniciando sincronizacion de contactos
+14/07/2010 13:41:16 Iniciando sincronizacion de contactos
+14/07/2010 13:42:50 Iniciando sincronizacion de contactos
+14/07/2010 13:45:11 Iniciando sincronizacion de contactos
+14/07/2010 13:47:26 Iniciando sincronizacion de contactos
+14/07/2010 15:36:09 Iniciando sincronizacion de contactos
+14/07/2010 15:36:16 No se ha podido recuperar el registro de sincronizacion
+14/07/2010 15:36:29 Iniciando sincronizacion del calendario
+14/07/2010 15:37:21 Iniciando sincronizacion de calendario
+14/07/2010 15:37:21 Sincronizacion finalizada
+14/07/2010 15:37:43 Iniciando sincronizacion de contactos
+14/07/2010 15:38:00 Iniciando sincronizacion del calendario
+14/07/2010 15:38:38 Iniciando sincronizacion de calendario
+14/07/2010 15:38:38 Sincronizacion finalizada
+14/07/2010 15:39:39 Iniciando sincronizacion de contactos
+14/07/2010 15:39:47 Iniciando sincronizacion del calendario
+14/07/2010 15:40:32 Iniciando sincronizacion de calendario
+14/07/2010 15:40:32 Sincronizacion finalizada
+14/07/2010 15:49:26 Inciando sincronización
+14/07/2010 15:49:27 No se ha podido recuperar el registro de sincronizacion
+14/07/2010 15:49:27 Iniciando sincronizacion de contactos
+14/07/2010 15:49:34 Iniciando sincronizacion del calendario
+14/07/2010 15:50:16 No se ha podido actualizar el registro de sincronizacion
+14/07/2010 15:50:16 Sincronizacion finalizada
+14/07/2010 15:53:05 Inciando sincronización
+14/07/2010 15:53:06 No se ha podido recuperar el registro de sincronizacion
+14/07/2010 15:53:06 Iniciando sincronizacion de contactos
+14/07/2010 15:53:13 Iniciando sincronizacion del calendario
+14/07/2010 15:55:48 Inciando sincronización
+14/07/2010 15:55:48 No se ha podido recuperar el registro de sincronizacion
+14/07/2010 15:55:48 Iniciando sincronizacion de contactos
+14/07/2010 15:55:56 Fin sincronizacion de contactos
+14/07/2010 15:55:56 Iniciando sincronizacion del calendario
+14/07/2010 15:56:37 Fin sincronizacion del calendario
+14/07/2010 15:57:47 Sincronizacion finalizada
+14/07/2010 15:58:53 Inciando sincronización
+14/07/2010 15:58:53 Iniciando sincronizacion de contactos
+14/07/2010 16:02:45 Inciando sincronización
+14/07/2010 16:02:45 Iniciando sincronizacion de contactos
+14/07/2010 16:03:21 Fin sincronizacion de contactos. Se sincronizaron 161 contactos.
+14/07/2010 16:03:21 Iniciando sincronizacion del calendario
+14/07/2010 16:04:00 Fin sincronizacion del calendario. Se sincronizaron 2639 elementos.
+14/07/2010 16:04:03 Sincronizacion finalizada
+14/07/2010 16:07:02 Inciando sincronización
+14/07/2010 16:07:02 Iniciando sincronizacion de contactos
+14/07/2010 16:07:02 Outlook: Se han recuperado 0 contactos
+14/07/2010 16:07:03 Google: Se han recuperado 0 contactos
+14/07/2010 16:07:03 Fin sincronizacion de contactos
+14/07/2010 16:07:03 Iniciando sincronizacion del calendario
+14/07/2010 16:07:23 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:07:42 Google: Se han recuperado 495 eventos
+14/07/2010 16:07:42 Fin sincronizacion del calendario
+14/07/2010 16:07:42 Sincronizacion finalizada
+14/07/2010 16:08:24 Inciando sincronización
+14/07/2010 16:08:24 Iniciando sincronizacion de contactos
+14/07/2010 16:10:15 Inciando sincronización
+14/07/2010 16:10:15 Iniciando sincronizacion de contactos
+14/07/2010 16:10:24 Outlook: Se han recuperado 0 contactos
+14/07/2010 16:10:25 Google: Se han recuperado 0 contactos
+14/07/2010 16:10:38 Google: Se han recuperado 0 contactos
+14/07/2010 16:11:20 Google: Se han recuperado 1 contactos
+14/07/2010 16:11:21 Fin sincronizacion de contactos
+14/07/2010 16:11:21 Iniciando sincronizacion del calendario
+14/07/2010 16:11:41 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:12:00 Google: Se han recuperado 495 eventos
+14/07/2010 16:12:00 Fin sincronizacion del calendario
+14/07/2010 16:12:02 Sincronizacion finalizada
+14/07/2010 16:12:26 Inciando sincronización
+14/07/2010 16:12:26 Iniciando sincronizacion de contactos
+14/07/2010 16:12:26 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:12:26 Google: Se han recuperado 1 contactos
+14/07/2010 16:12:30 Fin sincronizacion de contactos
+14/07/2010 16:12:30 Iniciando sincronizacion del calendario
+14/07/2010 16:12:52 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:13:11 Google: Se han recuperado 495 eventos
+14/07/2010 16:13:11 Fin sincronizacion del calendario
+14/07/2010 16:13:11 Sincronizacion finalizada
+14/07/2010 16:14:11 Inciando sincronización
+14/07/2010 16:14:11 Iniciando sincronizacion de contactos
+14/07/2010 16:14:11 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:14:11 Google: Se han recuperado 2 contactos
+14/07/2010 16:14:11 Fin sincronizacion de contactos
+14/07/2010 16:14:11 Iniciando sincronizacion del calendario
+14/07/2010 16:14:31 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:14:51 Google: Se han recuperado 495 eventos
+14/07/2010 16:14:51 Fin sincronizacion del calendario
+14/07/2010 16:14:51 Sincronizacion finalizada
+14/07/2010 16:15:51 Inciando sincronización
+14/07/2010 16:15:51 Iniciando sincronizacion de contactos
+14/07/2010 16:15:51 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:15:52 Google: Se han recuperado 2 contactos
+14/07/2010 16:15:52 Fin sincronizacion de contactos
+14/07/2010 16:15:52 Iniciando sincronizacion del calendario
+14/07/2010 16:16:13 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:16:34 Google: Se han recuperado 495 eventos
+14/07/2010 16:16:34 Fin sincronizacion del calendario
+14/07/2010 16:16:34 Sincronizacion finalizada
+14/07/2010 16:24:03 Inciando sincronización
+14/07/2010 16:25:03 Inciando sincronización
+14/07/2010 16:25:03 Iniciando sincronizacion de contactos
+14/07/2010 16:25:03 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:25:04 Google: Se han recuperado 2 contactos
+14/07/2010 16:25:04 Fin sincronizacion de contactos
+14/07/2010 16:25:04 Iniciando sincronizacion del calendario
+14/07/2010 16:25:23 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:25:44 Google: Se han recuperado 495 eventos
+14/07/2010 16:25:44 Fin sincronizacion del calendario
+14/07/2010 16:25:44 Sincronizacion finalizada
+14/07/2010 16:26:19 Inciando sincronización
+14/07/2010 16:26:20 Iniciando sincronizacion de contactos
+14/07/2010 16:26:20 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:26:21 Google: Se han recuperado 2 contactos
+14/07/2010 16:26:21 Fin sincronizacion de contactos
+14/07/2010 16:26:21 Iniciando sincronizacion del calendario
+14/07/2010 16:26:45 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:27:03 Inciando sincronización
+14/07/2010 16:27:51 Inciando sincronización
+14/07/2010 16:30:13 Inciando sincronización
+14/07/2010 16:31:00 Inciando sincronización
+14/07/2010 16:31:00 Iniciando sincronizacion de contactos
+14/07/2010 16:31:00 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:31:02 Google: Se han recuperado 2 contactos
+14/07/2010 16:31:02 Fin sincronizacion de contactos
+14/07/2010 16:31:02 Iniciando sincronizacion del calendario
+14/07/2010 16:31:22 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:31:42 Google: Se han recuperado 495 eventos
+14/07/2010 16:31:42 Fin sincronizacion del calendario
+14/07/2010 16:31:42 Sincronizacion finalizada
+14/07/2010 16:32:43 Inciando sincronización
+14/07/2010 16:32:43 Iniciando sincronizacion de contactos
+14/07/2010 16:32:43 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:32:44 Google: Se han recuperado 2 contactos
+14/07/2010 16:32:44 Fin sincronizacion de contactos
+14/07/2010 16:32:44 Iniciando sincronizacion del calendario
+14/07/2010 16:33:17 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:34:03 Google: Se han recuperado 495 eventos
+14/07/2010 16:34:03 Fin sincronizacion del calendario
+14/07/2010 16:34:03 Sincronizacion finalizada
+14/07/2010 16:43:04 Inciando sincronización
+14/07/2010 16:43:04 Iniciando sincronizacion de contactos
+14/07/2010 16:43:04 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:43:06 Google: Se han recuperado 2 contactos
+14/07/2010 16:43:06 Fin sincronizacion de contactos
+14/07/2010 16:43:06 Iniciando sincronizacion del calendario
+14/07/2010 16:43:28 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:43:50 Google: Se han recuperado 495 eventos
+14/07/2010 16:43:50 Fin sincronizacion del calendario
+14/07/2010 16:43:50 Sincronizacion finalizada
+14/07/2010 16:44:36 Inciando sincronización
+14/07/2010 16:44:36 ERROR: No se ha podido recuperar el registro de sincronizacion
+14/07/2010 16:44:36 Iniciando sincronizacion de contactos
+14/07/2010 16:44:36 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:44:37 Google: Se han recuperado 2 contactos
+14/07/2010 16:44:37 Fin sincronizacion de contactos
+14/07/2010 16:44:37 Iniciando sincronizacion del calendario
+14/07/2010 16:44:56 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:45:20 Google: Se han recuperado 495 eventos
+14/07/2010 16:45:20 Fin sincronizacion del calendario
+14/07/2010 16:45:20 Sincronizacion finalizada
+14/07/2010 16:48:51 Inciando sincronización
+14/07/2010 16:48:51 Iniciando sincronizacion de contactos
+14/07/2010 16:48:51 Outlook: Se han recuperado 2 contactos
+14/07/2010 16:48:53 Google: Se han recuperado 2 contactos
+14/07/2010 16:48:53 Fin sincronizacion de contactos
+14/07/2010 16:48:53 Iniciando sincronizacion del calendario
+14/07/2010 16:49:12 Outlook: Se han recuperado 2144 eventos
+14/07/2010 16:49:33 Google: Se han recuperado 495 eventos
+14/07/2010 16:49:33 Fin sincronizacion del calendario
+14/07/2010 16:49:33 Sincronizacion finalizada
+16/08/2010 10:00:13 Inciando sincronización
+16/08/2010 10:00:13 Iniciando sincronizacion de contactos
+16/08/2010 10:00:14 Outlook: Se han recuperado 2 contactos
+16/08/2010 10:01:02 Google: Se han recuperado 146 contactos
+16/08/2010 10:01:07 Fin sincronizacion de contactos
+16/08/2010 10:01:07 Iniciando sincronizacion del calendario
+16/08/2010 10:01:38 Outlook: Se han recuperado 2175 eventos
+16/08/2010 10:02:08 Google: Se han recuperado 506 eventos
+16/08/2010 10:02:08 Fin sincronizacion del calendario
+16/08/2010 10:02:08 Sincronizacion finalizada
+16/08/2010 10:13:39 Inciando sincronización
+16/08/2010 10:13:39 Iniciando sincronizacion de contactos
+16/08/2010 10:15:17 Inciando sincronización
+16/08/2010 10:15:17 Iniciando sincronizacion de contactos
+16/08/2010 10:24:32 Inciando sincronización
+16/08/2010 10:24:32 Iniciando sincronizacion de contactos
+16/08/2010 10:33:55 Inciando sincronización
+16/08/2010 10:33:55 Iniciando sincronizacion de contactos
+16/08/2010 10:33:56 Outlook: Se han recuperado 146 contactos
+16/08/2010 10:40:57 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 10:41:04 Inciando sincronización
+16/08/2010 10:41:04 Iniciando sincronizacion de contactos
+16/08/2010 10:41:04 Outlook: Se han recuperado 0 contactos
+16/08/2010 10:41:15 Google: Se han recuperado 146 contactos
+16/08/2010 10:54:38 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 10:54:58 Inciando sincronización
+16/08/2010 10:54:58 Iniciando sincronizacion de contactos
+16/08/2010 10:54:58 Outlook: Se han recuperado 0 contactos
+16/08/2010 10:55:03 Google: Se han recuperado 146 contactos
+16/08/2010 10:59:26 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 10:59:32 Inciando sincronización
+16/08/2010 10:59:32 Iniciando sincronizacion de contactos
+16/08/2010 10:59:32 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:05:06 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:05:09 Inciando sincronización
+16/08/2010 11:05:09 Iniciando sincronizacion de contactos
+16/08/2010 11:05:10 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:05:16 Google: Se han recuperado 146 contactos
+16/08/2010 11:07:08 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:07:12 Inciando sincronización
+16/08/2010 11:07:12 Iniciando sincronizacion de contactos
+16/08/2010 11:07:12 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:07:16 Google: Se han recuperado 146 contactos
+16/08/2010 11:07:52 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:08:01 Inciando sincronización
+16/08/2010 11:08:01 Iniciando sincronizacion de contactos
+16/08/2010 11:08:01 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:08:06 Google: Se han recuperado 146 contactos
+16/08/2010 11:08:22 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:08:32 Inciando sincronización
+16/08/2010 11:08:38 Iniciando sincronizacion de contactos
+16/08/2010 11:08:55 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:09:03 Google: Se han recuperado 146 contactos
+16/08/2010 11:12:57 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:13:07 Inciando sincronización
+16/08/2010 11:13:07 Iniciando sincronizacion de contactos
+16/08/2010 11:13:07 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:13:15 Google: Se han recuperado 146 contactos
+16/08/2010 11:14:56 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:15:02 Inciando sincronización
+16/08/2010 11:15:02 Iniciando sincronizacion de contactos
+16/08/2010 11:15:02 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:15:20 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:15:25 Inciando sincronización
+16/08/2010 11:15:25 Iniciando sincronizacion de contactos
+16/08/2010 11:15:25 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:15:29 Google: Se han recuperado 146 contactos
+16/08/2010 11:16:21 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:16:27 Inciando sincronización
+16/08/2010 11:16:27 Iniciando sincronizacion de contactos
+16/08/2010 11:16:27 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:16:31 Google: Se han recuperado 146 contactos
+16/08/2010 11:17:56 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:18:23 Inciando sincronización
+16/08/2010 11:18:23 Iniciando sincronizacion de contactos
+16/08/2010 11:18:23 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:18:27 Google: Se han recuperado 146 contactos
+16/08/2010 11:18:31 Fin sincronizacion de contactos
+16/08/2010 11:18:31 Sincronizacion finalizada
+16/08/2010 11:19:31 Inciando sincronización
+16/08/2010 11:19:31 Iniciando sincronizacion de contactos
+16/08/2010 11:19:32 Outlook: Se han recuperado 146 contactos
+16/08/2010 11:19:35 Google: Se han recuperado 146 contactos
+16/08/2010 11:19:35 Fin sincronizacion de contactos
+16/08/2010 11:19:35 Sincronizacion finalizada
+16/08/2010 11:48:34 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:48:38 Inciando sincronización
+16/08/2010 11:48:38 Iniciando sincronizacion de contactos
+16/08/2010 11:48:38 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:48:45 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:48:49 Inciando sincronización
+16/08/2010 11:48:49 Iniciando sincronizacion de contactos
+16/08/2010 11:48:49 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:48:53 Google: Se han recuperado 146 contactos
+16/08/2010 11:48:58 Fin sincronizacion de contactos
+16/08/2010 11:48:58 Sincronizacion finalizada
+16/08/2010 11:49:10 Inciando sincronización
+16/08/2010 11:49:10 Iniciando sincronizacion de contactos
+16/08/2010 11:49:11 Outlook: Se han recuperado 146 contactos
+16/08/2010 11:49:16 Google: Se han recuperado 146 contactos
+16/08/2010 11:49:16 Fin sincronizacion de contactos
+16/08/2010 11:49:16 Sincronizacion finalizada
+16/08/2010 11:49:39 Inciando sincronización
+16/08/2010 11:49:39 Iniciando sincronizacion de contactos
+16/08/2010 11:49:40 Outlook: Se han recuperado 146 contactos
+16/08/2010 11:49:44 Google: Se han recuperado 146 contactos
+16/08/2010 11:49:44 Fin sincronizacion de contactos
+16/08/2010 11:49:44 Sincronizacion finalizada
+16/08/2010 11:51:21 Inciando sincronización
+16/08/2010 11:51:21 Iniciando sincronizacion de contactos
+16/08/2010 11:51:22 Outlook: Se han recuperado 146 contactos
+16/08/2010 11:51:27 Google: Se han recuperado 146 contactos
+16/08/2010 11:51:27 Fin sincronizacion de contactos
+16/08/2010 11:51:27 Sincronizacion finalizada
+16/08/2010 11:51:30 Inciando sincronización
+16/08/2010 11:51:30 Iniciando sincronizacion de contactos
+16/08/2010 11:51:31 Outlook: Se han recuperado 146 contactos
+16/08/2010 11:51:35 Google: Se han recuperado 146 contactos
+16/08/2010 11:51:35 Fin sincronizacion de contactos
+16/08/2010 11:51:35 Sincronizacion finalizada
+16/08/2010 11:52:37 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 11:52:42 Inciando sincronización
+16/08/2010 11:52:42 Iniciando sincronizacion de contactos
+16/08/2010 11:52:42 Outlook: Se han recuperado 0 contactos
+16/08/2010 11:52:49 Google: Se han recuperado 146 contactos
+16/08/2010 11:53:18 Fin sincronizacion de contactos
+16/08/2010 11:53:19 Sincronizacion finalizada
+16/08/2010 12:20:39 ERROR: No se ha podido recuperar el registro de sincronizacion
+16/08/2010 12:20:47 Inciando sincronización
+16/08/2010 12:20:47 Iniciando sincronizacion de contactos
+16/08/2010 12:20:47 Outlook: Se han recuperado 0 contactos
+16/08/2010 12:20:52 Google: Se han recuperado 146 contactos
+16/08/2010 12:20:57 Fin sincronizacion de contactos
+16/08/2010 12:20:57 Sincronizacion finalizada
+16/08/2010 12:21:25 Inciando sincronización
+16/08/2010 12:21:25 Iniciando sincronizacion de contactos
+16/08/2010 12:21:26 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:21:29 Google: Se han recuperado 146 contactos
+16/08/2010 12:23:06 Inciando sincronización
+16/08/2010 12:23:06 Iniciando sincronizacion de contactos
+16/08/2010 12:23:07 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:23:10 Google: Se han recuperado 146 contactos
+16/08/2010 12:25:45 Inciando sincronización
+16/08/2010 12:25:45 Iniciando sincronizacion de contactos
+16/08/2010 12:25:46 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:25:50 Google: Se han recuperado 146 contactos
+16/08/2010 12:28:22 Inciando sincronización
+16/08/2010 12:28:22 Iniciando sincronizacion de contactos
+16/08/2010 12:28:23 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:28:30 Google: Se han recuperado 146 contactos
+16/08/2010 12:29:14 Inciando sincronización
+16/08/2010 12:29:14 Iniciando sincronizacion de contactos
+16/08/2010 12:29:15 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:29:21 Google: Se han recuperado 146 contactos
+16/08/2010 12:31:59 Inciando sincronización
+16/08/2010 12:31:59 Iniciando sincronizacion de contactos
+16/08/2010 12:32:00 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:32:04 Google: Se han recuperado 146 contactos
+16/08/2010 12:32:16 Fin sincronizacion de contactos
+16/08/2010 12:32:16 Sincronizacion finalizada
+16/08/2010 12:34:19 Inciando sincronización
+16/08/2010 12:34:19 Iniciando sincronizacion de contactos
+16/08/2010 12:34:20 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:34:24 Google: Se han recuperado 146 contactos
+16/08/2010 12:34:24 Fin sincronizacion de contactos
+16/08/2010 12:34:24 Sincronizacion finalizada
+16/08/2010 12:34:46 Inciando sincronización
+16/08/2010 12:34:46 Iniciando sincronizacion de contactos
+16/08/2010 12:34:47 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:34:50 Google: Se han recuperado 146 contactos
+16/08/2010 12:34:56 Fin sincronizacion de contactos
+16/08/2010 12:34:56 Sincronizacion finalizada
+16/08/2010 12:39:00 Inciando sincronización
+16/08/2010 12:39:00 Iniciando sincronizacion de contactos
+16/08/2010 12:39:01 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:39:09 Google: Se han recuperado 146 contactos
+16/08/2010 12:39:35 Fin sincronizacion de contactos
+16/08/2010 12:39:35 Sincronizacion finalizada
+16/08/2010 12:40:27 Inciando sincronización
+16/08/2010 12:40:27 Iniciando sincronizacion de contactos
+16/08/2010 12:40:28 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:40:31 Google: Se han recuperado 146 contactos
+16/08/2010 12:40:31 Fin sincronizacion de contactos
+16/08/2010 12:40:31 Sincronizacion finalizada
+16/08/2010 12:40:43 Inciando sincronización
+16/08/2010 12:40:43 Iniciando sincronizacion de contactos
+16/08/2010 12:40:44 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:40:47 Google: Se han recuperado 146 contactos
+16/08/2010 12:41:49 Fin sincronizacion de contactos
+16/08/2010 12:41:49 Sincronizacion finalizada
+16/08/2010 12:42:05 Inciando sincronización
+16/08/2010 12:42:05 Iniciando sincronizacion de contactos
+16/08/2010 12:42:05 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:42:13 Google: Se han recuperado 146 contactos
+16/08/2010 12:42:45 Fin sincronizacion de contactos
+16/08/2010 12:42:45 Sincronizacion finalizada
+16/08/2010 12:43:09 Inciando sincronización
+16/08/2010 12:43:09 Iniciando sincronizacion de contactos
+16/08/2010 12:43:09 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:43:15 Google: Se han recuperado 146 contactos
+16/08/2010 12:43:15 Fin sincronizacion de contactos
+16/08/2010 12:43:15 Sincronizacion finalizada
+16/08/2010 12:43:48 Inciando sincronización
+16/08/2010 12:43:48 Iniciando sincronizacion de contactos
+16/08/2010 12:43:48 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:43:52 Google: Se han recuperado 146 contactos
+16/08/2010 12:44:18 Fin sincronizacion de contactos
+16/08/2010 12:44:18 Sincronizacion finalizada
+16/08/2010 12:44:30 Inciando sincronización
+16/08/2010 12:44:30 Iniciando sincronizacion de contactos
+16/08/2010 12:44:31 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:44:35 Google: Se han recuperado 146 contactos
+16/08/2010 12:44:36 Fin sincronizacion de contactos
+16/08/2010 12:44:36 Sincronizacion finalizada
+16/08/2010 12:44:43 Inciando sincronización
+16/08/2010 12:44:43 Iniciando sincronizacion de contactos
+16/08/2010 12:44:44 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:44:47 Google: Se han recuperado 146 contactos
+16/08/2010 12:47:53 Inciando sincronización
+16/08/2010 12:47:53 Iniciando sincronizacion de contactos
+16/08/2010 12:47:53 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:47:57 Google: Se han recuperado 146 contactos
+16/08/2010 12:50:04 Inciando sincronización
+16/08/2010 12:50:04 Iniciando sincronizacion de contactos
+16/08/2010 12:50:05 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:50:09 Google: Se han recuperado 146 contactos
+16/08/2010 12:52:28 Inciando sincronización
+16/08/2010 12:52:28 Iniciando sincronizacion de contactos
+16/08/2010 12:52:29 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:52:34 Google: Se han recuperado 146 contactos
+16/08/2010 12:53:20 Fin sincronizacion de contactos
+16/08/2010 12:53:20 Sincronizacion finalizada
+16/08/2010 12:53:55 Inciando sincronización
+16/08/2010 12:53:55 Iniciando sincronizacion de contactos
+16/08/2010 12:53:55 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:53:59 Google: Se han recuperado 146 contactos
+16/08/2010 12:53:59 Fin sincronizacion de contactos
+16/08/2010 12:53:59 Sincronizacion finalizada
+16/08/2010 12:54:39 Inciando sincronización
+16/08/2010 12:54:39 Iniciando sincronizacion de contactos
+16/08/2010 12:54:39 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:54:42 Google: Se han recuperado 146 contactos
+16/08/2010 12:54:43 Fin sincronizacion de contactos
+16/08/2010 12:54:43 Sincronizacion finalizada
+16/08/2010 12:55:13 Inciando sincronización
+16/08/2010 12:55:13 Iniciando sincronizacion de contactos
+16/08/2010 12:55:14 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:55:16 Google: Se han recuperado 146 contactos
+16/08/2010 12:55:17 Fin sincronizacion de contactos
+16/08/2010 12:55:17 Sincronizacion finalizada
+16/08/2010 12:56:17 Inciando sincronización
+16/08/2010 12:56:17 Iniciando sincronizacion de contactos
+16/08/2010 12:56:18 Outlook: Se han recuperado 146 contactos
+16/08/2010 12:56:23 Google: Se han recuperado 146 contactos
+16/08/2010 12:56:23 Fin sincronizacion de contactos
+16/08/2010 12:56:23 Sincronizacion finalizada
+16/08/2010 13:26:29 Inciando sincronización
+16/08/2010 13:26:29 Iniciando sincronizacion de contactos
+16/08/2010 13:26:30 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:26:33 Google: Se han recuperado 146 contactos
+16/08/2010 13:27:05 Fin sincronizacion de contactos
+16/08/2010 13:27:05 Sincronizacion finalizada
+16/08/2010 13:28:05 Inciando sincronización
+16/08/2010 13:28:05 Iniciando sincronizacion de contactos
+16/08/2010 13:28:06 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:28:12 Google: Se han recuperado 147 contactos
+16/08/2010 13:28:12 Fin sincronizacion de contactos
+16/08/2010 13:28:12 Sincronizacion finalizada
+16/08/2010 13:30:37 Inciando sincronización
+16/08/2010 13:30:37 Iniciando sincronizacion de contactos
+16/08/2010 13:30:37 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:30:41 Google: Se han recuperado 147 contactos
+16/08/2010 13:30:42 Fin sincronizacion de contactos
+16/08/2010 13:30:43 Sincronizacion finalizada
+16/08/2010 13:31:43 Inciando sincronización
+16/08/2010 13:31:43 Iniciando sincronizacion de contactos
+16/08/2010 13:31:43 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:31:47 Google: Se han recuperado 147 contactos
+16/08/2010 13:31:47 Fin sincronizacion de contactos
+16/08/2010 13:31:47 Sincronizacion finalizada
+16/08/2010 13:32:47 Inciando sincronización
+16/08/2010 13:32:47 Iniciando sincronizacion de contactos
+16/08/2010 13:32:48 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:32:54 Google: Se han recuperado 147 contactos
+16/08/2010 13:32:55 Fin sincronizacion de contactos
+16/08/2010 13:32:55 Sincronizacion finalizada
+16/08/2010 13:33:55 Inciando sincronización
+16/08/2010 13:33:55 Iniciando sincronizacion de contactos
+16/08/2010 13:33:55 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:34:00 Google: Se han recuperado 147 contactos
+16/08/2010 13:34:00 Fin sincronizacion de contactos
+16/08/2010 13:34:00 Sincronizacion finalizada
+16/08/2010 13:35:00 Inciando sincronización
+16/08/2010 13:35:00 Iniciando sincronizacion de contactos
+16/08/2010 13:35:01 Outlook: Se han recuperado 147 contactos
+16/08/2010 13:35:06 Google: Se han recuperado 147 contactos
+16/08/2010 13:35:06 Fin sincronizacion de contactos
+16/08/2010 13:35:06 Sincronizacion finalizada
+16/08/2010 15:24:19 Inciando sincronización
+16/08/2010 15:24:19 Iniciando sincronizacion de contactos
+16/08/2010 15:24:22 Outlook: Se han recuperado 147 contactos
+16/08/2010 15:24:27 Google: Se han recuperado 147 contactos
+16/08/2010 15:25:59 Inciando sincronización
+16/08/2010 15:25:59 Iniciando sincronizacion de contactos
+16/08/2010 15:25:59 Outlook: Se han recuperado 147 contactos
+16/08/2010 15:26:03 Google: Se han recuperado 147 contactos
+16/08/2010 15:30:58 Inciando sincronización
+16/08/2010 15:30:58 Iniciando sincronizacion de contactos
+16/08/2010 15:30:59 Outlook: Se han recuperado 147 contactos
+16/08/2010 15:31:04 Google: Se han recuperado 147 contactos
+16/08/2010 15:48:08 Inciando sincronización
+16/08/2010 15:48:08 Iniciando sincronizacion de contactos
+16/08/2010 15:48:08 Outlook: Se han recuperado 147 contactos
+16/08/2010 15:48:17 Google: Se han recuperado 147 contactos
+16/08/2010 16:01:44 Inciando sincronización
+16/08/2010 16:01:45 Iniciando sincronizacion de contactos
+16/08/2010 16:01:48 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:05:53 Inciando sincronización
+16/08/2010 16:05:53 Iniciando sincronizacion de contactos
+16/08/2010 16:05:54 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:17:37 Inciando sincronización
+16/08/2010 16:17:37 Iniciando sincronizacion de contactos
+16/08/2010 16:17:38 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:24:45 Inciando sincronización
+16/08/2010 16:24:45 Iniciando sincronizacion de contactos
+16/08/2010 16:24:46 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:28:56 Inciando sincronización
+16/08/2010 16:28:56 Iniciando sincronizacion de contactos
+16/08/2010 16:28:57 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:29:36 Inciando sincronización
+16/08/2010 16:29:36 Iniciando sincronizacion de contactos
+16/08/2010 16:29:37 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:32:12 Inciando sincronización
+16/08/2010 16:32:12 Iniciando sincronizacion de contactos
+16/08/2010 16:32:13 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:36:48 Inciando sincronización
+16/08/2010 16:36:48 Iniciando sincronizacion de contactos
+16/08/2010 16:36:48 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:40:03 Inciando sincronización
+16/08/2010 16:40:03 Iniciando sincronizacion de contactos
+16/08/2010 16:40:04 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:46:07 Inciando sincronización
+16/08/2010 16:46:07 Iniciando sincronizacion de contactos
+16/08/2010 16:46:08 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:46:49 Inciando sincronización
+16/08/2010 16:46:49 Iniciando sincronizacion de contactos
+16/08/2010 16:46:50 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:48:42 Inciando sincronización
+16/08/2010 16:48:42 Iniciando sincronizacion de contactos
+16/08/2010 16:48:42 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:53:40 Inciando sincronización
+16/08/2010 16:53:40 Iniciando sincronizacion de contactos
+16/08/2010 16:53:41 Outlook: Se han recuperado 147 contactos
+16/08/2010 16:59:13 Inciando sincronización
+16/08/2010 16:59:13 Iniciando sincronizacion de contactos
+16/08/2010 16:59:14 Outlook: Se han recuperado 147 contactos
+16/08/2010 17:00:15 Inciando sincronización
+16/08/2010 17:00:15 Iniciando sincronizacion de contactos
+16/08/2010 17:00:16 Outlook: Se han recuperado 147 contactos
+16/08/2010 17:01:14 Inciando sincronización
+16/08/2010 17:01:14 Iniciando sincronizacion de contactos
+16/08/2010 17:01:14 Outlook: Se han recuperado 147 contactos
+16/08/2010 17:01:45 Inciando sincronización
+16/08/2010 17:01:45 Iniciando sincronizacion de contactos
+16/08/2010 17:01:46 Outlook: Se han recuperado 147 contactos
+16/08/2010 17:02:55 Inciando sincronización
+16/08/2010 17:02:55 Iniciando sincronizacion de contactos
+16/08/2010 17:02:55 Outlook: Se han recuperado 147 contactos
+16/08/2010 17:04:29 Inciando sincronización
+16/08/2010 17:04:29 Iniciando sincronizacion de contactos
+16/08/2010 17:04:29 Outlook: Se han recuperado 147 contactos
+16/08/2010 17:07:08 Inciando sincronización
+16/08/2010 17:07:08 Iniciando sincronizacion de contactos
+16/08/2010 17:07:08 Outlook: Se han recuperado 147 contactos
+18/08/2010 10:31:25 Inciando sincronización
+18/08/2010 10:31:25 Iniciando sincronizacion de contactos
+18/08/2010 10:31:29 Outlook: Se han recuperado 147 contactos
+18/08/2010 10:32:10 Inciando sincronización
+18/08/2010 10:32:10 Iniciando sincronizacion de contactos
+18/08/2010 10:32:10 Outlook: Se han recuperado 147 contactos
+18/08/2010 10:32:14 Google: Se han recuperado 147 contactos
+18/08/2010 10:32:16 Fin sincronizacion de contactos
+18/08/2010 10:32:16 Sincronizacion finalizada
+18/08/2010 10:32:41 Inciando sincronización
+18/08/2010 10:32:41 Iniciando sincronizacion de contactos
+18/08/2010 10:32:42 Outlook: Se han recuperado 147 contactos
+18/08/2010 10:32:45 Google: Se han recuperado 147 contactos
+18/08/2010 10:32:46 Fin sincronizacion de contactos
+18/08/2010 10:32:46 Sincronizacion finalizada
+25/08/2010 9:43:54 Inciando sincronización
+25/08/2010 9:43:54 Iniciando sincronizacion de contactos
+25/08/2010 9:43:56 Outlook: Se han recuperado 147 contactos
+25/08/2010 9:44:01 Google: Se han recuperado 147 contactos
+25/08/2010 9:44:01 Fin sincronizacion de contactos
+25/08/2010 9:44:02 Sincronizacion finalizada
+25/08/2010 9:44:55 Inciando sincronización
+25/08/2010 9:44:55 Iniciando sincronizacion de contactos
+25/08/2010 9:44:56 Outlook: Se han recuperado 147 contactos
+25/08/2010 9:44:59 Google: Se han recuperado 147 contactos
+25/08/2010 9:44:59 Fin sincronizacion de contactos
+25/08/2010 9:44:59 Sincronizacion finalizada
+30/08/2010 12:18:25 Inciando sincronización
+30/08/2010 12:18:25 Iniciando sincronizacion de contactos
+30/08/2010 12:18:26 Outlook: Se han recuperado 147 contactos
+30/08/2010 12:21:09 Inciando sincronización
+30/08/2010 12:21:09 Iniciando sincronizacion de contactos
+30/08/2010 12:21:10 Outlook: Se han recuperado 147 contactos
+30/08/2010 12:22:23 Inciando sincronización
+30/08/2010 12:22:23 Iniciando sincronizacion de contactos
+30/08/2010 12:22:24 Outlook: Se han recuperado 147 contactos
+30/08/2010 12:22:28 Google: Se han recuperado 148 contactos
+30/08/2010 12:22:29 Fin sincronizacion de contactos
+30/08/2010 12:22:29 Sincronizacion finalizada
+30/08/2010 12:22:51 Inciando sincronización
+30/08/2010 12:22:51 Iniciando sincronizacion de contactos
+30/08/2010 12:22:52 Outlook: Se han recuperado 148 contactos
+30/08/2010 12:23:04 Inciando sincronización
+30/08/2010 12:23:04 Iniciando sincronizacion de contactos
+30/08/2010 12:23:04 Outlook: Se han recuperado 148 contactos
+30/08/2010 12:23:27 Inciando sincronización
+30/08/2010 12:23:27 Iniciando sincronizacion de contactos
+30/08/2010 12:23:28 Outlook: Se han recuperado 148 contactos
+30/08/2010 12:23:31 Google: Se han recuperado 148 contactos
+30/08/2010 12:23:31 Fin sincronizacion de contactos
+30/08/2010 12:23:31 Sincronizacion finalizada
+16/09/2010 16:31:25 Inciando sincronización
+16/09/2010 16:31:25 Iniciando sincronizacion de contactos
+16/09/2010 16:31:27 Outlook: Se han recuperado 148 contactos
+16/09/2010 16:31:31 Google: Se han recuperado 161 contactos
+16/09/2010 16:31:41 Fin sincronizacion de contactos
+16/09/2010 16:31:41 Sincronizacion finalizada
+16/09/2010 16:32:05 Inciando sincronización
+16/09/2010 16:32:05 Iniciando sincronizacion de contactos
+16/09/2010 16:32:06 Outlook: Se han recuperado 23 contactos
+16/09/2010 16:32:09 Google: Se han recuperado 161 contactos
+16/09/2010 16:32:34 Fin sincronizacion de contactos
+16/09/2010 16:32:34 Sincronizacion finalizada
+16/09/2010 16:32:57 Inciando sincronización
+16/09/2010 16:32:57 Iniciando sincronizacion de contactos
+16/09/2010 16:32:58 Outlook: Se han recuperado 23 contactos
+16/09/2010 16:39:47 Inciando sincronización
+16/09/2010 16:39:47 Iniciando sincronizacion de contactos
+16/09/2010 16:39:47 Outlook: Se han recuperado 23 contactos
+16/09/2010 16:39:48 Error: Error procesando la solicitud
+16/09/2010 16:39:48 Fin sincronizacion de contactos
+16/09/2010 16:39:48 Sincronizacion finalizada
+16/09/2010 16:40:18 Inciando sincronización
+16/09/2010 16:40:18 Iniciando sincronizacion de contactos
+16/09/2010 16:40:18 Outlook: Se han recuperado 23 contactos
+16/09/2010 16:40:19 Error: Error procesando la solicitud
+16/09/2010 16:40:19 Fin sincronizacion de contactos
+16/09/2010 16:40:19 Sincronizacion finalizada
+16/09/2010 16:40:40 Inciando sincronización
+16/09/2010 16:40:40 Iniciando sincronizacion de contactos
+16/09/2010 16:40:40 Outlook: Se han recuperado 23 contactos
+16/09/2010 16:40:44 Error: Error procesando la solicitud
+16/09/2010 16:40:48 Fin sincronizacion de contactos
+16/09/2010 16:41:56 Inciando sincronización
+16/09/2010 16:41:56 Iniciando sincronizacion de contactos
+16/09/2010 16:41:56 Outlook: Se han recuperado 23 contactos
+16/09/2010 16:41:57 ERROR: Error procesando la solicitud

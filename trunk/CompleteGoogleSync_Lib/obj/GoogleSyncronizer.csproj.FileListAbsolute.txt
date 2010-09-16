@@ -1,0 +1,13 @@
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\GoogleSyncronizer.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\GoogleSyncronizer.pdb
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\Google.GData.Client.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\Google.GData.Contacts.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\Google.GData.Extensions.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\bin\Debug\Interop.Outlook.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\obj\Debug\Interop.Outlook.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\obj\Debug\GoogleSyncronizer.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\obj\Debug\GoogleSyncronizer.dll
+C:\Inetpub\wwwroot\Pentasoft.NET\GCompleteSync\GCompleteSync_Lib\GoogleSyncronizer\obj\Debug\GoogleSyncronizer.pdb
